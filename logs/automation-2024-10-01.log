@@ -1,0 +1,46 @@
+14:18:59.292 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Providing Customer details
+14:19:23.428 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - ***** Starting TC006_ValidateDeleteToCartFunctionality *****
+14:19:26.021 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Clicked on MyAccount link
+14:19:26.023 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Providing Customer details
+14:20:03.503 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - ***** Starting TC006_ValidateDeleteToCartFunctionality *****
+14:20:05.159 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Clicked on MyAccount link
+14:20:05.161 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Providing Customer details
+14:20:29.773 [main] ERROR testCases.TC006_ValidateDeleteToCartFunctionality - Test failed...
+14:24:13.123 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - ***** Starting TC006_ValidateDeleteToCartFunctionality *****
+14:24:14.314 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Clicked on MyAccount link
+14:24:14.317 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Providing Customer details
+14:24:21.430 [main] ERROR testCases.TC006_ValidateDeleteToCartFunctionality - Test failed...
+14:24:40.574 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - ***** Starting TC006_ValidateDeleteToCartFunctionality *****
+14:24:44.737 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Clicked on MyAccount link
+14:24:44.739 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Providing Customer details
+14:24:51.076 [main] ERROR testCases.TC006_ValidateDeleteToCartFunctionality - Test failed...
+14:26:09.736 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - ***** Starting TC006_ValidateDeleteToCartFunctionality *****
+14:26:11.689 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Clicked on MyAccount link
+14:26:11.691 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Providing Customer details
+14:26:19.169 [main] ERROR testCases.TC006_ValidateDeleteToCartFunctionality - Test failed...
+14:27:17.369 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - ***** Starting TC006_ValidateDeleteToCartFunctionality *****
+14:27:19.151 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Clicked on MyAccount link
+14:27:19.153 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Providing Customer details
+14:28:14.942 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - ***** Starting TC003_ValidateLoginWithInvalidPassword *****
+14:28:16.431 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Clicked on MyAccount link
+14:28:16.432 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Providing Customer details
+14:28:17.883 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Validating expected error message...
+14:28:28.990 [main] ERROR testCases.TC003_ValidateLoginWithInvalidPassword - Test failed...
+14:30:20.550 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - ***** Starting TC003_ValidateLoginWithInvalidPassword *****
+14:30:21.937 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Clicked on MyAccount link
+14:30:21.939 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Providing Customer details
+14:30:23.419 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Validating expected error message...
+14:30:25.509 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Test Passed
+14:32:11.635 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - ***** Starting TC003_ValidateLoginWithInvalidPassword *****
+14:32:13.005 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Clicked on MyAccount link
+14:32:13.008 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Providing Customer details
+14:32:14.400 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Validating expected error message...
+14:32:18.494 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Test Passed
+17:53:55.998 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - ***** Starting TC002_ValidateLoginWithInvalidEmail *****
+17:53:57.266 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Clicked on MyAccount link
+17:53:57.268 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Providing Customer details
+17:53:57.559 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Validating expected error message...
+17:54:14.654 [main] ERROR testCases.TC002_ValidateLoginWithInvalidEmail - Test failed...
+17:54:43.552 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - ***** Starting TC002_ValidateLoginWithInvalidEmail *****
+17:54:45.080 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Clicked on MyAccount link
+17:54:45.082 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Providing Customer details

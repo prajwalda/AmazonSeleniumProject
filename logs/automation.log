@@ -1,0 +1,38 @@
+15:52:24.339 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Clicked on MyAccount link
+15:52:24.342 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Providing Customer details
+15:52:25.528 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Validating expected error message...
+15:52:31.418 [main] INFO  testCases.TC004_ValidateInvalidSearchText - ***** Starting TC004_ValidateInvalidSearchText *****
+15:52:31.760 [main] INFO  testCases.TC004_ValidateInvalidSearchText - Setting invalid search field...
+15:52:33.465 [main] INFO  testCases.TC004_ValidateInvalidSearchText - Clicked the search button
+15:52:33.517 [main] INFO  testCases.TC004_ValidateInvalidSearchText - Test Passed
+15:52:39.937 [main] INFO  testCases.TC005_ValidateAddToCartFunctionality - ***** Starting TC005_ValidateAddToCartFunctionality *****
+15:52:41.230 [main] INFO  testCases.TC005_ValidateAddToCartFunctionality - Clicked on MyAccount link
+15:52:41.230 [main] INFO  testCases.TC005_ValidateAddToCartFunctionality - Providing Customer details
+15:52:47.382 [main] INFO  testCases.TC005_ValidateAddToCartFunctionality - Added item to the cart
+15:52:59.608 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - ***** Starting TC006_ValidateDeleteToCartFunctionality *****
+15:53:00.717 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Clicked on MyAccount link
+15:53:00.718 [main] INFO  testCases.TC006_ValidateDeleteToCartFunctionality - Providing Customer details
+15:53:31.312 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+15:53:31.313 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+15:54:30.909 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - ***** Starting TC003_ValidateLoginWithInvalidPassword *****
+15:54:32.340 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Clicked on MyAccount link
+15:54:32.342 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Providing Customer details
+15:54:33.271 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Validating expected error message...
+15:54:35.628 [main] INFO  testCases.TC003_ValidateLoginWithInvalidPassword - Test Passed
+16:47:37.838 [main] INFO  testCases.TC009_ValidatePaymentCheckout - ***** Starting TC009_ValidatePaymentCheckout *****
+16:47:39.512 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+16:47:39.513 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+16:47:39.653 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Entered email
+16:47:40.582 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on Continue button
+16:47:40.657 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Entered password
+16:47:40.765 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on Submit button
+16:47:42.978 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Entered search text: 'iphone 15 plus'
+16:47:45.571 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on Search button
+16:47:45.720 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on product details page link
+16:47:54.376 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on Buy Now button
+16:47:54.476 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on UPI option
+16:47:57.637 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Entered UPI ID
+16:47:58.387 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on Verify button
+16:48:00.198 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on Submit button
+16:48:06.390 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Checking if the current URL contains '/gp/buy/spc/handlers'
+16:48:06.393 [main] INFO  testCases.TC009_ValidatePaymentCheckout - ***** TC009_ValidatePaymentCheckout completed successfully *****

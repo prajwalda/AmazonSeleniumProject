@@ -1,0 +1,52 @@
+17:54:45.369 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Validating expected error message...
+17:55:05.487 [main] ERROR testCases.TC002_ValidateLoginWithInvalidEmail - Test failed...
+18:01:51.048 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - ***** Starting TC002_ValidateLoginWithInvalidEmail *****
+18:01:52.212 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Clicked on MyAccount link
+18:01:52.214 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Providing Customer details
+18:01:52.537 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Validating expected error message...
+18:02:12.628 [main] ERROR testCases.TC002_ValidateLoginWithInvalidEmail - Test failed...
+18:03:30.015 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - ***** Starting TC002_ValidateLoginWithInvalidEmail *****
+18:03:31.171 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Clicked on MyAccount link
+18:03:31.174 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Providing Customer details
+18:03:31.471 [main] INFO  testCases.TC002_ValidateLoginWithInvalidEmail - Validating expected error message...
+18:03:51.583 [main] ERROR testCases.TC002_ValidateLoginWithInvalidEmail - Test failed...
+18:04:38.328 [main] INFO  testCases.TC004_ValidateInvalidSearchText - ***** Starting TC004_ValidateInvalidSearchText *****
+18:04:38.827 [main] INFO  testCases.TC004_ValidateInvalidSearchText - Setting invalid search field...
+18:04:40.349 [main] INFO  testCases.TC004_ValidateInvalidSearchText - Clicked the search button
+18:04:40.430 [main] INFO  testCases.TC004_ValidateInvalidSearchText - Test Passed
+12:34:50.178 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+12:34:50.203 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+12:38:22.958 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+12:38:22.988 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+12:40:03.648 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+12:40:03.668 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+12:42:26.092 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+12:42:26.114 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+12:44:33.635 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+12:44:33.660 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+12:45:37.593 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+12:45:37.618 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:20:18.151 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:20:18.172 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:22:30.474 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:22:30.490 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:22:59.685 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:22:59.705 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:23:31.317 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:23:31.334 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:24:36.998 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:24:37.015 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:25:45.207 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:25:45.231 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:26:33.348 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:26:33.366 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:28:22.884 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:28:22.900 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:30:08.923 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:30:08.940 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:53:06.631 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:53:06.653 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:53:38.136 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:53:38.155 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details
+14:54:21.739 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Clicked on MyAccount link
+14:54:21.759 [main] INFO  testCases.TC009_ValidatePaymentCheckout - Providing Customer details

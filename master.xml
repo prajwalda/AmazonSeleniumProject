@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"></listener>
+    </listeners>
+    <test verbose="2" preserve-order="true" name="/home/prajwal/IdeaProjects/Selenium_Project/src/test/java/testCases/TC001_AccountRegistrationTest.java">
+
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest" />
+            <class name="testCases.TC002_ValidateLoginWithInvalidEmail" />
+            <class name="testCases.TC003_ValidateLoginWithInvalidPassword" />
+            <class name="testCases.TC004_ValidateInvalidSearchText" />
+            <class name="testCases.TC005_ValidateAddToCartFunctionality" />
+            <class name="testCases.TC006_ValidateDeleteToCartFunctionality" />
+            <class name="testCases.TC007_ValidateSearchFunctionality"/>
+            <class name="testCases.TC008_ValidateAutoCompleteInSearchField"/>
+            <class name="testCases.TC009_ValidatePaymentCheckout"/>
+            <class name="testCases.TC0010_ValidateAmazonFresh"/>
+
+        </classes>
+    </test>
+</suite>
